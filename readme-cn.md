@@ -1,6 +1,6 @@
 # tauri-glm
 
-通义千问大模型客户端,一个独立的桌面应用程序，用于 glm，使用 Tauri 构建。
+GLM大模型客户端,一个独立的桌面应用程序，用于 glm，使用 Tauri 构建。
 
 ![1](readme_files/1.png)
 
